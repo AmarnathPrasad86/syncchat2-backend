@@ -1,9 +1,12 @@
 # Node
-node-backend/node_modules
+node_modules/
+node-backend/node_modules/
+.env
 node-backend/.env
 
 # Python
-python-service/__pycache__
+python-service/__pycache__/
+__pycache__/
 *.pyc
 
 # OS
