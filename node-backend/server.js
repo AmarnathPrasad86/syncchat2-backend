@@ -15,7 +15,7 @@ const Message = require('./models/Message');
 const pythonAIService = require('./services/pythonAIService');
 
 dotenv.config({ path: path.resolve(__dirname, '.env') });
-
+//first push yaha se hoga
 const app = express();
 const server = http.createServer(app);
 const io = new Server(server, {
