@@ -1,0 +1,11 @@
+# Node
+node-backend/node_modules
+node-backend/.env
+
+# Python
+python-service/__pycache__
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
